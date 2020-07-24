@@ -26,14 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 ![](img/1.png)
-<video src=vid/1.avi controls="controls" width="100%" height="auto"/>
-<iframe 
-    width="800" 
-    height="450" 
-    src="https://v.miaopai.com/iframe?scid=SvyHaHOczsp7B6ftW86oqMMz62-h5ai6~Fwp8A__"
-    frameborder="0" 
-    allowfullscreen>
-</iframe>
+<iframe height=288 width=360 src=out.gif>
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
