@@ -6,19 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-|![](anchor/anchor1.gif)| ![](anchor/anchor2.gif) | ![示范图片.jpg](https://upload-images.jianshu.io/upload_images/5659772-5a839d825c38353a.jpg) | ![示范图片.jpg](https://upload-images.jianshu.io/upload_images/5659772-5a839d825c38353a.jpg) |
-|:-|:-|:-|:-|
-
-![](anchor/anchor1.gif)
-![](anchor/anchor2.gif)
-![](anchor/anchor4.gif)
-![](anchor/anchor8.gif)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SuhongWang/Pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+|![](anchor/anchor1.gif)|![](anchor/anchor2.gif)|
+|![](anchor/anchor4.gif)|![](anchor/anchor8.gif)|
 
 ### Support or Contact
 
