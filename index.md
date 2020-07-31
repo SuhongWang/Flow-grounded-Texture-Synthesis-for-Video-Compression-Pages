@@ -7,12 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 |![](anchor/anchor1.gif)|![](test/test1.gif)|
-|:-|:-|
+
 |![](anchor/anchor2.gif)|![](test/test2.gif)|
-|:-|:-|
+
 |![](anchor/anchor4.gif)|![](test/test4.gif)|
-|:-|:-|
+
 |![](anchor/anchor8.gif)|![](test/test8.gif)|
-|:-|:-|
+
 ### Support or Contact
 
