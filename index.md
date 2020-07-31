@@ -6,6 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+<table>
+    <tr>
+        <td ><center><![](anchor/anchor1.gif)>Fig1</center></td>
+        <td ><center><![](anchor/anchor1.gif)>Fig2</center></td>
+    </tr>
+</table>
+
 ![](anchor/anchor1.gif)
 ![](anchor/anchor2.gif)
 ![](anchor/anchor4.gif)
