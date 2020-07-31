@@ -6,9 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-![](img/1.png)
 ![](out.gif)
-<iframe height=288 width=360 src=out.gif>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
